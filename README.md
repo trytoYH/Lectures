@@ -1,2 +1,2 @@
 # Lectures
-lectures
+lecture archiving
